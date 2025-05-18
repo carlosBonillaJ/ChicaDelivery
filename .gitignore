@@ -1,0 +1,12 @@
+# GameMaker ignore
+*.yymps
+*.yyz
+*.autosave
+*.log
+*.dll
+*.exe
+*.zip
+/build/
+/config.json
+.DS_Store
+Thumbs.db
