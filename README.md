@@ -1,4 +1,4 @@
-echo "# Proyecto Chica Delivery 
+Proyecto Chica Delivery 
 
 Repositorio para el videojuego colaborativo Chica Delivery en GameMaker Studio 2.
 
